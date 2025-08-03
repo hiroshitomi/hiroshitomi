@@ -50,7 +50,7 @@ Desarrollador frontend enfocado en crear interfaces simples, intuitivas y funcio
 
 ## 📫 Cómo contactarme
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/hiroshidev)
+- 💼 [LinkedIn - Hiroshidev](https://www.linkedin.com/in/hiroshidev)
 - ✉️ hiroshi.tomioka95@gmail.com
 - 🌐 Portfolio (próximamente)
 
@@ -61,5 +61,3 @@ Desarrollador frontend enfocado en crear interfaces simples, intuitivas y funcio
 Estoy abierto a participar en proyectos colaborativos, contribuir a iniciativas útiles o simplemente charlar sobre ideas y desarrollo. ¡Escribime si creés que podríamos construir algo juntos!
 
 ---
-
-Gracias por visitar mi perfil 🚀

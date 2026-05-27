@@ -67,15 +67,6 @@ Desarrollador Frontend **SSr con más de 3 años de experiencia** desarrollando,
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiroshitomi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiroshitomi&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
-
 <p align="center">
   💬 <i>¿Te interesa trabajar juntos? Conectemos.</i><br/>
   <a href="https://www.linkedin.com/in/hiroshidev">LinkedIn</a> · <a href="https://github.com/hiroshitomi">GitHub</a>
